@@ -1,0 +1,22 @@
+/*------------------------------------*\
+  Elements > Page
+\*------------------------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-monospace;
+}
+
+body {
+  color: $color-text;
+  font-size: $font-size-base;
+  font-family: $font-base;
+  line-height: $line-height-base;
+
+  -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+*::selection {
+  color: $color-white;
+  background: $color-brand;
+}
