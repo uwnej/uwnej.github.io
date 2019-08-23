@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Hello, world!
-tags: [blog, misc]
+tags: [misc]
 image: '/images/posts/1.jpg'
 ---
 
-Hello, world!
+Hello, world.
